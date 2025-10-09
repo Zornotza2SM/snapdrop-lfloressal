@@ -14,6 +14,7 @@ Por ejemplo, la dirección de este equipo es:
 80 portua erabiltzen du eta http protokoloarekin erlazionatuta dago.
 
 3. ¿Cuantos contenedores incluye este proyecto?
-
+Dos, uno para cada servicio.
 4. ¿Has notado cambios en la carpeta de tu proyecto al desplegar la aplicación? Indica cuales.
+
 5. Cuando termines de responde a todas las preguntas. Haz commit de los cambios realizados con el mensaje.
